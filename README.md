@@ -1,6 +1,6 @@
 # npmtest-standard-format
 
-#### test coverage for  [standard-format (v2.2.4)](https://github.com/maxogden/standard-format)  [![npm package](https://img.shields.io/npm/v/npmtest-standard-format.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-standard-format) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-standard-format.svg)](https://travis-ci.org/npmtest/node-npmtest-standard-format)
+#### basic test coverage for  [standard-format (v2.2.4)](https://github.com/maxogden/standard-format)  [![npm package](https://img.shields.io/npm/v/npmtest-standard-format.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-standard-format) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-standard-format.svg)](https://travis-ci.org/npmtest/node-npmtest-standard-format)
 
 #### attempts to reformat javascript to comply with feross/standard style
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-standard-format/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-standard-format/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-standard-format/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-standard-format/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-standard-format/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-standard-format/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-standard-format/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-standard-format/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-standard-format/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-standard-format/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-standard-format/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-standard-format/build/coverage.html/index.html)
 
