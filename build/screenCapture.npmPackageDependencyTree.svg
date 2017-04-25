@@ -42,9 +42,9 @@
 <tspan x="10" y="634">  │ │ │ └── regenerator-runtime@0.10.3 </tspan>
 <tspan x="10" y="650">  │ │ ├─┬ babel-types@6.24.1 </tspan>
 <tspan x="10" y="666">  │ │ │ └── to-fast-properties@1.0.2 </tspan>
-<tspan x="10" y="682">  │ │ ├── babylon@6.16.1 </tspan>
-<tspan x="10" y="698">  │ │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="714">  │ │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="682">  │ │ ├── babylon@6.17.0 </tspan>
+<tspan x="10" y="698">  │ │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="714">  │ │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="730">  │ │ ├── globals@9.17.0 </tspan>
 <tspan x="10" y="746">  │ │ ├─┬ invariant@2.2.2 </tspan>
 <tspan x="10" y="762">  │ │ │ └── loose-envify@1.3.1 </tspan>
@@ -77,20 +77,20 @@
 <tspan x="10" y="1194">  │ │ │ │ └── typedarray@0.0.6 </tspan>
 <tspan x="10" y="1210">  │ │ │ └── os-shim@0.1.3 </tspan>
 <tspan x="10" y="1226">  │ │ └── sync-exec@0.5.0 </tspan>
-<tspan x="10" y="1242">  │ ├─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="1242">  │ ├─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="1258">  │ │ └── path-parse@1.0.5 </tspan>
 <tspan x="10" y="1274">  │ ├─┬ rocambole@0.7.0 </tspan>
 <tspan x="10" y="1290">  │ │ └── esprima@2.7.3 </tspan>
 <tspan x="10" y="1306">  │ ├─┬ rocambole-indent@2.0.4 </tspan>
-<tspan x="10" y="1322">  │ │ ├── debug@2.6.3 </tspan>
+<tspan x="10" y="1322">  │ │ ├── debug@2.6.4 </tspan>
 <tspan x="10" y="1338">  │ │ └── mout@0.11.1 </tspan>
 <tspan x="10" y="1354">  │ ├─┬ rocambole-linebreak@1.0.2 </tspan>
-<tspan x="10" y="1370">  │ │ ├── debug@2.6.3 </tspan>
+<tspan x="10" y="1370">  │ │ ├── debug@2.6.4 </tspan>
 <tspan x="10" y="1386">  │ │ └── semver@4.3.6 </tspan>
 <tspan x="10" y="1402">  │ ├── rocambole-node@1.0.0 </tspan>
 <tspan x="10" y="1418">  │ ├── rocambole-token@1.2.1 </tspan>
 <tspan x="10" y="1434">  │ ├─┬ rocambole-whitespace@1.0.0 </tspan>
-<tspan x="10" y="1450">  │ │ ├── debug@2.6.3 </tspan>
+<tspan x="10" y="1450">  │ │ ├── debug@2.6.4 </tspan>
 <tspan x="10" y="1466">  │ │ └── repeat-string@1.6.1 </tspan>
 <tspan x="10" y="1482">  │ ├── strip-json-comments@0.1.3 </tspan>
 <tspan x="10" y="1498">  │ ├── supports-color@1.3.1 </tspan>

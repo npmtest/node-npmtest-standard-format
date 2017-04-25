@@ -1,26 +1,26 @@
 <svg height="366" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="366" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 10:27:01 +0000    67332 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 10:27:01 +0000     2101 bytes  bin.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 10:27:01 +0000      638 bytes  collaborators.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 10:27:01 +0000     1563 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 10:27:01 +0000     3499 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 10:27:01 +0000    15490 bytes  rc/esformatter.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 10:27:01 +0000     2324 bytes  readme.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 10:27:01 +0000     1289 bytes  test/es6.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 10:27:01 +0000      309 bytes  test/failing/jsx.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 10:27:01 +0000     1394 bytes  test/failing/multiline.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 10:27:01 +0000    22628 bytes  test/failing/obfuscated-files/standard-format-to\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 20:51:43 +0000    67332 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 20:51:43 +0000     2101 bytes  bin.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 20:51:43 +0000      638 bytes  collaborators.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 20:51:43 +0000     1563 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 20:51:43 +0000     3499 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 20:51:43 +0000    15490 bytes  rc/esformatter.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 20:51:43 +0000     2324 bytes  readme.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 20:51:43 +0000     1289 bytes  test/es6.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 20:51:43 +0000      309 bytes  test/failing/jsx.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 20:51:43 +0000     1394 bytes  test/failing/multiline.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 20:51:43 +0000    22628 bytes  test/failing/obfuscated-files/standard-format-to\</tspan>
 <tspan x="10" y="202">rture.js</tspan>
-<tspan x="10" y="218"> 11.  2017-04-18 10:27:01 +0000      425 bytes  test/failing/obfuscated.js</tspan>
-<tspan x="10" y="234"> 12.  2017-04-18 10:27:01 +0000      511 bytes  test/failing/singleline.js</tspan>
-<tspan x="10" y="250"> 13.  2017-04-18 10:27:01 +0000      229 bytes  test/index.js</tspan>
-<tspan x="10" y="266"> 14.  2017-04-18 10:27:01 +0000     1831 bytes  test/jsx.js</tspan>
-<tspan x="10" y="282"> 15.  2017-04-18 10:27:01 +0000     4168 bytes  test/multiline.js</tspan>
-<tspan x="10" y="298"> 16.  2017-04-18 10:27:01 +0000      390 bytes  test/shebang.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-18 10:27:01 +0000     4879 bytes  test/singleline.js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-18 10:27:01 +0000     2400 bytes  test/test-files/test.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-18 10:27:01 +0000     1264 bytes  test/testFile.js</tspan>
+<tspan x="10" y="218"> 11.  2017-04-25 20:51:43 +0000      425 bytes  test/failing/obfuscated.js</tspan>
+<tspan x="10" y="234"> 12.  2017-04-25 20:51:43 +0000      511 bytes  test/failing/singleline.js</tspan>
+<tspan x="10" y="250"> 13.  2017-04-25 20:51:43 +0000      229 bytes  test/index.js</tspan>
+<tspan x="10" y="266"> 14.  2017-04-25 20:51:43 +0000     1831 bytes  test/jsx.js</tspan>
+<tspan x="10" y="282"> 15.  2017-04-25 20:51:43 +0000     4168 bytes  test/multiline.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-25 20:51:43 +0000      390 bytes  test/shebang.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-25 20:51:43 +0000     4879 bytes  test/singleline.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-25 20:51:43 +0000     2400 bytes  test/test-files/test.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-25 20:51:43 +0000     1264 bytes  test/testFile.js</tspan>
 </text>
 </svg>
